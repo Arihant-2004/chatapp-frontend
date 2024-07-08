@@ -1,1 +1,1 @@
- export const server ="https://chatapp-2-t9el.onrender.com"
+ export const server ="https://chatapp-4-ui1x.onrender.com"
