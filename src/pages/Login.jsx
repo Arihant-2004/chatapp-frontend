@@ -58,6 +58,7 @@ const handleLogin = async (e) => {
       },
       config
     );
+    console.log(data);
     dispatch(userExists(data.user));
     toast.success(data.message, {
       id: toastId,
