@@ -1,1 +1,1 @@
- export const server ="http://localhost:3000"
+ export const server ="https://chatapp-2-t9el.onrender.com"
